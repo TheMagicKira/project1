@@ -1,6 +1,6 @@
 # themagickira.github.io
 <!DOCTYPE html>
-<html
+<html>
 
 <head>
   <title>Daniel's Profile</title>
