@@ -150,9 +150,7 @@
     </div>
 
     <div id="section_eight">
-      <h2>This is section about my projects in this course </h2>
-      <h3>About my projects in this course</h3>
-      <h4>My projects in this course are below</h4>
+      <h2>Project Progression: </h2>
 
       <form action="">
 
