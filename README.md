@@ -1,4 +1,3 @@
-# themagickira.github.io
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +64,7 @@
   <header>
 
     <nav>
-      </ul>
+      <ul>
         <li><a href="#section_one">About Me </a></li>
         <li><a href="#section_two">Education </a></li>
         <li><a href="#section_three">Programming Knowledge </a></li>
