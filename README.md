@@ -498,7 +498,7 @@ text-align: left;
 
 <div class="row">
 
-<div class="col-1 col-xs-12">
+<div class="col-12 col-xs-12">
 
 <div class="p-30">
 
@@ -514,7 +514,7 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 
 </div>
 
-<div class="col-1 col-xs-12">
+<div class="col-12 col-xs-12">
 
 <div class="p-30">
 
@@ -529,7 +529,7 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 
 </div>
 
-<div class="col-1 col-xs-12">
+<div class="col-12 col-xs-12">
 
 <div class="p-30">
 
