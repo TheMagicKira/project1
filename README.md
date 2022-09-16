@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <html lang="en">
 
@@ -520,7 +519,6 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 <p class="text-center">Favorite Movie: Surf's Up</p>
 <div style="text-align:center;">
    <iframe width="560" height="315" src="https://www.youtube.com/embed/7mPdQRXFiPA?autoplay=0" target="_blank" frameborder="0" allowfullscreen></iframe>
-      </iframe>
 
 
 </div>
