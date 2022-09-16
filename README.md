@@ -166,7 +166,7 @@ padding: 0px;
 
 width: 100%;
 
-background-color: GREEN;
+background-color: BLACK;
 
 color: WHITE;
 
@@ -503,12 +503,11 @@ text-align: left;
 <div class="p-30">
 
 <p class="text-center">Favorite Song: Baby - Oh Wonder</p>
-
+<div style="text-align:center;">
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
+    
 </iframe>
-
-</video>
 
 </div>
 
@@ -519,11 +518,10 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 <div class="p-30">
 
 <p class="text-center">Favorite Movie: Surf's Up</p>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7mPdQRXFiPA?autoplay=0" target="_blank" frameborder="0" allowfullscreen></iframe>
+<div style="text-align:center;">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/7mPdQRXFiPA?autoplay=0" target="_blank" frameborder="0" allowfullscreen></iframe>
       </iframe>
 
-</video>
 
 </div>
 
@@ -534,11 +532,8 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 <div class="p-30">
 
 <p class="text-center">Favorite TV Show: Avatar: The Last Airbender</p>
-
+<div style="text-align:center;">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/dMnDkFktGF4?autoplay=0" target="_blank" frameborder="0" allowfullscreen></iframe>
-      </iframe>
-
-</video>
 
 </div>
 
@@ -554,7 +549,7 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 
 <div class="row">
 
-<div class="col-6 col-xs-12">
+<div class="col-12 col-xs-12">
 
 <h4 class="text-center">Reddit:</h4>
 
@@ -566,7 +561,7 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 
 </div>
 
-<div class="col-6 col-xs-12">
+<div class="col-12 col-xs-12">
 
 <h4 class="text-center">Youtube:</h4>
 
@@ -627,10 +622,3 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 </form>
 
 </div>
-
-</main> <br><br><br>
-
-
-</body>
-
-</html>
