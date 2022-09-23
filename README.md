@@ -1,4 +1,18 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Profile</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style1.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+
 <html lang="en">
 
 <head>
@@ -575,6 +589,8 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 
 </div><br/>
 
+</div><br/>
+
 <div id="section_eight">
 
 <h2 class="text-center">Project Progression:</h2>
@@ -583,7 +599,7 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 
 <form action="">
 
-<table border="2" >
+<table border="3" >
 
 <tr>
 
@@ -604,12 +620,17 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 <td><input type="text" name="" id=""></td>
 
 </tr>
-
 <tr>
 
 <td>2</td>
 
 <td>Milestone 2</td>
+
+<tr>
+
+<td>3</td>
+
+<td>Milestone 3</td>
 
 <td><input type="text" name="" id=""> <button type="submit">Change</button></td>
 
@@ -620,3 +641,9 @@ src="https://www.youtube.com/embed/UcG5MEnbOyA?autoplay=0">
 </form>
 
 </div>
+
+<script>
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();
+});
+</script>
